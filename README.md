@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# One Store
 
-`CURSO`
+`SI - PUC Minas`
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar: Aplicações para Processos de Negócios`
 
-`SEMESTRE`
+`3`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este trabalho explora a criação do e-commerce de moda masculina, OneStore. Tem como objetivo fornecer uma plataforma de vendas online eficiente e responsiva, com navegação personalizada de acordo com as preferências de cada usuário. O projeto incluirá um modelo relacional em SQL para o gerenciamento de dados, abrangendo estoque, aquisição e venda de produtos, além da gestão de usuários cadastrados.
+
+Nesse sentido, o projeto tem como resultado esperado o desenvolvimento de uma plataforma de vendas funcional que aumente a visibilidade da marca, garantindo um sistema de gestão robusto e eficiente, com desenvolvimento tanto no front-end quanto no back-end.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* João Augusto Lacerda Silva
+* Caio Henrique da Silva Bento
+* Samuel araujo de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Michelle Hanne Soares de Andrade
 
 ## Instruções de utilização
 
