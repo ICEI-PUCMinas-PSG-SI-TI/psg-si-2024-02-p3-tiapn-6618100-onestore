@@ -1,6 +1,7 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Este trabalho explora a criação do e-commerce de moda masculina, OneStore. Tem como objetivo fornecer uma plataforma de vendas online eficiente e responsiva, com navegação personalizada de acordo com as preferências de cada usuário. O projeto incluirá um modelo relacional em SQL para o gerenciamento de dados, abrangendo estoque, aquisição e venda de produtos, além da gestão de usuários cadastrados.
+Nesse sentido, o projeto tem como resultado esperado o desenvolvimento de uma plataforma de vendas funcional que aumente a visibilidade da marca, garantindo um sistema de gestão robusto e eficiente, com desenvolvimento tanto no front-end quanto no back-end.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
